@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/Dityaren/android_kernel_samsung_a9y18qlte
